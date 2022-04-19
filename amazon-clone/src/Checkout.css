@@ -1,7 +1,7 @@
-/* .checkoutAD {
+.checkoutAD {
   align-self: center;
-  width: 10%;
-} */
+  width: 50%;
+}
 .checkout {
   display: flex;
   padding: 20px;
