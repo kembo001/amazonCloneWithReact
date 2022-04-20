@@ -11,7 +11,8 @@ const[{basket}, dispatch] = useStateValue();
   return (
     <div className='header'>
       
-      <Link to= '/'><img className='header_logo' src='https://upload.wikimedia.org/wikipedia/commons/thumb/a/a9/Amazon_logo.svg/2560px-Amazon_logo.svg.png' alt=''/>
+      <Link to= '/'>
+        <img className='header_logo' src='https://upload.wikimedia.org/wikipedia/commons/thumb/a/a9/Amazon_logo.svg/2560px-Amazon_logo.svg.png' alt=''/>
       </Link>
       <div className='header_search'>
           <input className='header_searchInput' type= 'text' />
@@ -22,7 +23,9 @@ const[{basket}, dispatch] = useStateValue();
       <div className='header_nav'>
         <div className='header_option'>
           <span className='header_optionLineOne'>Hello Guest</span>
+          <Link to = '/login'> 
           <span className='header_optionLineTwo'>Sign In</span>
+          </Link>
         </div>
 
         <div className='header_option'>
