@@ -3,7 +3,7 @@
 
 # About This Project
 In this project, I try to recreate the popular shopping website, Amazon. You can do such things like Log in to your personal page, add & remove items from cart and use the website just as if it was the original. I used REACT to create the project and Firebase for authentication. 
-# Live Link: ....
+# Live Link: https://clone-4f818.web.app/
 
 # Built With
 In addition to HTML, CSS, JavaScript...
