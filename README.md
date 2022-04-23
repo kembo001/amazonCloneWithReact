@@ -15,7 +15,7 @@ In addition to HTML, CSS, JavaScript...
 # Getting Started
 If you would like to clone and run the project locally, follow the steps below. 
 
-# Installation
+### Installation
 
 1. Clone the repo 
 ### git clone https://github.com/kembo001/amazonCloneWithReact.git
