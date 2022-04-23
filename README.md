@@ -6,6 +6,10 @@ In this project, I try to recreate the popular shopping website, Amazon. You can
 # Live Link: ....
 
 # Built With
+In addition to HTML, CSS, JavaScript...
+- React
+- Sass
+- Flexbox
 
 # Getting Started
 
