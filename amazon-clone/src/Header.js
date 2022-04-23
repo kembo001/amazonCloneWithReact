@@ -12,7 +12,7 @@ const[{basket}, dispatch] = useStateValue();
     <div className='header'>
       
       <Link to= '/'>
-        <img className='header_logo' src='https://upload.wikimedia.org/wikipedia/commons/thumb/a/a9/Amazon_logo.svg/2560px-Amazon_logo.svg.png' alt=''/>
+        <img className='header_logo' src='https://silverhillsbakery.ca/wp-content/uploads/2021/03/Amazon-logo-white-1110x403.png' alt=''/>
       </Link>
       <div className='header_search'>
           <input className='header_searchInput' type= 'text' />

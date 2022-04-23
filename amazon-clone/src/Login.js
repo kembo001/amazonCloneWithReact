@@ -6,7 +6,7 @@ function Login() {
   return (
 <div className='login'>
     <Link to= '/'>
-        <h1 className='loginLogo'><b>Amazon</b></h1>
+        <img className='loginLogo' src='https://upload.wikimedia.org/wikipedia/commons/thumb/a/a9/Amazon_logo.svg/2560px-Amazon_logo.svg.png' alt=''/>
     </Link>
 
     <div className='loginContainer'>
